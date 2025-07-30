@@ -16,7 +16,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Üsküdar Suyolu / Üsküdar Waterway',
+    title: 'Suyun Metabolik Akışı: Üsküdar Suyolu / Metabolic Flow of Water: Üsküdar Waterway',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     footer: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
