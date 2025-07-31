@@ -165,25 +165,6 @@ var config = {
              },
               {
             id: 'six-identifier',
-            alignment: 'left',
-            hidden: false,
-            title: '',
-            image: 'https://i.ibb.co/4ZmzvJ5N/MEF-AAP-027-BAP-2025-07-22-14-09-44.png',
-            description: '',
-            location: {
-                center: [29.014, 41.010],
-                zoom: 16,
-                pitch: 0,
-                bearing: 0.00
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-             },
-              {
-            id: 'seven-identifier',
             alignment: 'centered',
             hidden: false,
             title: '',
